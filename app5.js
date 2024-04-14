@@ -132,3 +132,37 @@ function shop(){
     window.location = "cart.html";
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
